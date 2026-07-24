@@ -1,4 +1,8 @@
-# Nyx Showcase
+<p align="center">
+  <img src="assets/branding/nyx-logo.png" alt="Nyx — Cyber Defense and Security Analysis" width="360">
+</p>
+
+<h1 align="center">Nyx Showcase</h1>
 
 [![CI](https://github.com/ShadowMITRE/Nyx-Showcase/actions/workflows/ci.yml/badge.svg)](https://github.com/ShadowMITRE/Nyx-Showcase/actions/workflows/ci.yml)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-3776AB.svg)](https://www.python.org/)
@@ -71,4 +75,3 @@ The full Nyx project adds broader parsers, local explainability contracts, polic
 Copyright © 2026 Amethyst Assurance Group. All rights reserved.
 
 This code is published for portfolio evaluation only and is **not open source**. See [LICENSE](LICENSE) and [NOTICE.md](NOTICE.md) before copying, modifying, redistributing, or using it commercially.
-
