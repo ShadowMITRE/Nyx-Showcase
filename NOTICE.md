@@ -20,3 +20,6 @@ Not included:
 
 This repository is made available for portfolio evaluation and technical discussion. It is not an open-source release and does not authorize commercial reuse, redistribution, or derivative works. See [LICENSE](LICENSE).
 
+## Branding
+
+Source availability does not grant a trademark license. The Nyx name, logo, tagline, and Amethyst Assurance Group branding remain reserved. Truthful references and links to the official project are permitted; other branding uses are governed by [TRADEMARKS.md](TRADEMARKS.md).

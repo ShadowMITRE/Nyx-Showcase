@@ -8,7 +8,7 @@
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-3776AB.svg)](https://www.python.org/)
 [![License: Portfolio Evaluation](https://img.shields.io/badge/license-portfolio%20evaluation-7C3AED.svg)](LICENSE)
 
-Nyx is an offline-first security triage project focused on deterministic findings, explainable decisions, and guarded automation. This repository is a sanitized, runnable portfolio edition that demonstrates the project's engineering approach without publishing the private production implementation, operational integrations, or policy corpus.
+Nyx is an offline-first security triage project focused on deterministic findings, explainable decisions, and guarded automation. This repository is a sanitized, runnable, source-available portfolio edition that demonstrates the project's engineering approach without publishing the private production implementation, operational integrations, or policy corpus. Source availability does not make this an open-source release; reuse rights remain limited by the repository license.
 
 ## What this edition demonstrates
 
@@ -61,6 +61,7 @@ The full Nyx project adds broader parsers, local explainability contracts, polic
 - `tests/` — behavioral and safety regression tests
 - `docs/architecture.md` — production-oriented architecture overview
 - `docs/security-model.md` — trust boundaries and limitations
+- `TRADEMARKS.md` — permitted and restricted uses of the Nyx name and visual identity
 
 ## Safety and limitations
 
@@ -75,3 +76,5 @@ The full Nyx project adds broader parsers, local explainability contracts, polic
 Copyright © 2026 Amethyst Assurance Group. All rights reserved.
 
 This code is published for portfolio evaluation only and is **not open source**. See [LICENSE](LICENSE) and [NOTICE.md](NOTICE.md) before copying, modifying, redistributing, or using it commercially.
+
+The Nyx name, logo, tagline, and Amethyst Assurance Group branding are not licensed for reuse with the source code. Truthful references to the official project are permitted, but branding another product, service, or derivative as Nyx requires written permission. See [TRADEMARKS.md](TRADEMARKS.md).
